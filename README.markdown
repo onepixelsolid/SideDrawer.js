@@ -2,9 +2,9 @@
 
 A simple jQuery plugin for creating and iPad like Side Drawer UI
 
-## Usage
+## Basic Usage
 
-  $('#drawer').sideDrawer({ 
-     side       : $('#side-element'),
-     main       : $('#main-element')
-  });
+    $('#drawer').sideDrawer({ 
+        side       : $('#side-element'),
+        main       : $('#main-element')
+    });
