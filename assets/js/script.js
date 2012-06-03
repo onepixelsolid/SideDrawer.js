@@ -5,12 +5,8 @@ $(function() {
   , main       : $('#main')
   });
  
- $(window).bind('sideDrawerAfterTransition', function(e, open) {
-   
- });
+  $(window).bind('sideDrawerAfterTransition', function(e, open) {
+    
+  });
 	 
 });
-
-
-
-
